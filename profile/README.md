@@ -1,8 +1,11 @@
 <!-- MOBINTIX README.md -->
+
 <h1 align="center">
-  <img src="Mobintix.png" alt="Mobintix Infotech Logo" width="100" />
+  <a href="https://mobintixinfotech.vercel.app" target="_blank">
+    <img src="Mobintix.png" alt="Mobintix Infotech Logo" width="100" />
+  </a>
   <br>
-  Mobintix Infotech
+  <a href="https://mobintixinfotech.vercel.app" target="_blank">Mobintix Infotech</a>
 </h1>
 
 <p align="center">
