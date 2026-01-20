@@ -1,11 +1,11 @@
 <!-- MOBINTIX README.md -->
 
 <h1 align="center">
-  <a href="https://mobintixinfotech.vercel.app" target="_blank">
+  <a href="https://www.mobintix.app" target="_blank">
     <img src="Mobintix.png" alt="Mobintix Infotech Logo" width="100" />
   </a>
   <br>
-  <a href="https://mobintixinfotech.vercel.app" target="_blank">Mobintix Infotech</a>
+  <a href="https://www.mobintix.app" target="_blank">Mobintix Infotech</a>
 </h1>
 
 <p align="center">
@@ -74,3 +74,4 @@ We specialize in **mobile apps, web development, automation, and UI/UX design**�
 | **🌍 Business Websites** | High-performance, SEO-optimized web solutions | React • WordPress • Go Backend |
 
 ---
+
